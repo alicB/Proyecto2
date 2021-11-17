@@ -1,0 +1,194 @@
+[
+        {
+            "id": "1",
+            "nombre": "House Lannister",
+            "id_personaje": "9",
+            "dirigente": "Tyrion Lannister",
+            "id_region": "1",
+            "region": "The Westerlands",
+            "vasallos": "House Frey",
+            "lema": "Hear Me Roar!",
+            "slug": "casa1"
+        },
+        {
+            "id": "2",
+            "nombre": "House Stark",
+            "id_personaje": "8",
+            "dirigente": "Brandon Stark",
+            "id_region": "3",
+            "region": "The North",
+            "vasallos": "House Tully",
+            "lema": "Winter is Coming",
+            "slug": "casa2"
+        },
+        {
+            "id": "3",
+            "nombre": "House Greyjoy",
+            "id_personaje": "10",
+            "dirigente": "Yara Greyjoy",
+            "id_region": "1",
+            "region": "The Westerlands",
+            "vasallos": "Unknown",
+            "lema": "We Do Not Sow",
+            "slug": "casa3"
+        },
+        {
+            "id": "4",
+            "nombre": "House Tully",
+            "id_personaje": "11",
+            "dirigente": "Edmure Tully",
+            "id_region": "2",
+            "region": "The Riverlands",
+            "vasallos": "House Mallister",
+            "lema": "Family, Duty, Honor",
+            "slug": "casa4"
+        },
+        {
+            "id": "5",
+            "nombre": "Free Folk",
+            "id_personaje": "12",
+            "dirigente": "Tormund Giantsbane",
+            "id_region": "6",
+            "region": "Beyond the wall",
+            "vasallos": "None",
+            "lema": "We don't kneel for anyone beyond the Wall",
+            "slug": "casa5"
+        },
+        {
+            "id": "6",
+            "nombre": "Brave Companions",
+            "dirigente": "None",
+            "id_region": "1",
+            "region": "The Westerlands",
+            "vasallos": "None",
+            "lema": "None",
+            "slug": "casa6"
+        },
+        {
+            "id": "7",
+            "nombre": "House Mallister",
+            "id_personaje": "13",
+            "dirigente": "Jason Mallister",
+            "id_region": "2",
+            "region": "The Riverlands",
+            "vasallos": "House Tully",
+            "lema": "Above the Rest",
+            "slug": "casa7"
+        },
+        {
+            "id": "8",
+            "nombre": "House Tyrell",
+            "dirigente": "Extinct ",
+            "id_region": "7",
+            "region": "The Reach",
+            "vasallos": "House Tarly",
+            "lema": "Growing Strong",
+            "slug": "casa8"
+        },
+        {
+            "id": "9",
+            "nombre": "House Baratheon",
+            "id_personaje": "14",
+            "dirigente": "Gendry Baratheon",
+            "id_region": "4",
+            "region": "The Stormlands",
+            "vasallos": "House Tarth",
+            "lema": "Ours is the Fury",
+            "slug": "casa9"
+        },
+        {
+            "id": "10",
+            "nombre": "House Bolton",
+            "dirigente": "Extinct ",
+            "id_region": "3",
+            "region": "The North",
+            "vasallos": "None",
+            "lema": "Our Blades are Sharp",
+            "slug": "casa10"
+        },
+        {
+            "id": "11",
+            "nombre": "Night's Watch",
+            "dirigente": "Unknown",
+            "id_region": "3",
+            "region": "The North",
+            "vasallos": "None",
+            "lema": "Night gathers, and now my watch begins",
+            "slug": "casa11"
+        },
+        {
+            "id": "12",
+            "nombre": "House Darry",
+            "id_personaje": "15",
+            "dirigente": "Mariya Darry",
+            "id_region": "2",
+            "region": "The Riverlands",
+            "vasallos": "House Tully",
+            "lema": "None",
+            "slug": "casa12"
+        },
+        {
+            "id": "13",
+            "nombre": "Brotherhood without Banners",
+            "dirigente": "None",
+            "id_region": "2",
+            "region": "The Riverlands",
+            "vasallos": "None",
+            "lema": "Holy brothers, sworn to the realm, to our god, and to each other",
+            "slug": "casa13"
+        },
+        {
+            "id": "14",
+            "nombre": "House Bracken",
+            "id_personaje": "16",
+            "dirigente": "Jonos Bracken",
+            "id_region": "2",
+            "region": "The Riverlands",
+            "vasallos": "House Tully",
+            "lema": "None",
+            "slug": "casa14"
+        },
+        {
+            "id": "15",
+            "nombre": "House Frey",
+            "dirigente": "Unknown",
+            "id_region": "2",
+            "region": "The Riverlands",
+            "vasallos": "House Erenford",
+            "lema": "We Stand Together",
+            "slug": "casa15"
+        },
+        {
+            "id": "16",
+            "nombre": "House Tarly",
+            "id_personaje": "18",
+            "dirigente": "Talla Tarly",
+            "id_region": "7",
+            "region": "The Reach",
+            "vasallos": "None",
+            "lema": "First in Battle",
+            "slug": "casa16"
+        },
+        {
+            "id": "17",
+            "nombre": "House Tarth",
+            "id_personaje": "17",
+            "dirigente": "Selwyn Tarth",
+            "id_region": "4",
+            "region": "The Stormlands",
+            "vasallos": "None",
+            "lema": "Yellow suns on rose quartered with white crescents on azure.",
+            "slug": "casa17"
+        },
+        {
+            "id": "18",
+            "nombre": "House Blackwood",
+            "id_personaje": "19",
+            "dirigente": "Tytos Blackwood",
+            "id_region": "2",
+            "region": "The Riverlands",
+            "vasallos": "None",
+            "lema": "A flock of ravens surrounding a black shield charged with a dead weirwood, on a scarlet field",
+            "slug": "casa18"
+        }
+    ]

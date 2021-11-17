@@ -1,0 +1,57 @@
+[{
+        "id": "1",
+        "nombre": "The Westerlands",
+        "descripcion": "The westerlands is a region in the west of the continent of Westeros. Before Aegon's Conquest, it was known as the Kingdom of the Rock. People from the westerlands are known as westermen.[2][3] The customary surname of bastards of noble origin born in the westerlands is Hill. The westerlands is ruled from Casterly Rock by House Lannister. Notable bannermen have included Banefort, Brax, Broom, Clegane, Crakehall, Farman, Lefford, Lydden, Marbrand, Payne, Prester, Reyne, Serrett, Swyft, Tarbeck, and Westerling.",
+        "id_casa": "1",
+        "casa": "House Lannister",
+        "slug": "region1"
+    },
+    {
+        "id": "2",
+        "nombre": "The Riverlands",
+        "descripcion": "The riverlands encompass a region of plains, forests, hills, and endless rivers, and borders on every single kingdom except Dorne. Their northern border is near the swamplands of the Neck, the southernmost region of the north. To the east, the riverlands extend to the Vale of Arryn's Mountains of the Moon and Crackclaw Point in the crownlands. A stream forms part of the boundary between the riverlands and the crownlands, with the hills of House Wode in the former and the lands of House Hogg in the latter.",
+        "id_casa": "4",
+        "casa": "House Tully",
+        "slug": "region2"
+    },
+    {
+        "id": "3",
+        "nombre": "The North",
+        "descripcion": "George R. R. Martin has indicated that Scotland is an inspiration for the north. While some say the vast north is nearly as large as the rest of the Seven Kingdoms combined,in actuality it is roughly a third of the landmass controlled by the Iron Throne. he region is sparsely populated, with vast wilderness, forests, pine-covered hills and snow-capped mountains, speckled with tiny villages and holdfasts. Its climate is cold and harsh in winter and occasionally it will snow in summer. The north has two major land barriers, the Wall to the north and the Neck to the south. The north is bound on each side by major seas, the Shivering Sea to the east and the Sunset Sea to the west. Winterfell, the ancestral seat of House Stark, is a large castle at the centre of the north. Nearby is the winter town. The vast wolfswood, the largest forest of the Seven Kingdoms, extends northwest to the Bay of Ice and Sea Dragon Point. Deepwood Motte, the seat of House Glover, lies in the western wolfswood. House Mormont rules Bear Island in the Bay of Ice. The northern mountains extend from the wolfswood to the Wall and are inhabited by northern mountain clans.",
+        "id_casa": "2",
+        "casa": "House Stark",
+        "slug": "region3"
+    },
+    {
+        "id": "4",
+        "nombre": "The Stormlands",
+        "descripcion": "The stormlands are bordered to the north by the crownlands, west by the Reach, south by Dorne and the Sea of Dorne, and east by Shipbreaker Bay and the narrow sea. They are one of the smaller regions of Westeros, a land of harsh mountains, stony shores, and verdant forests, including the kingswood and the rainwood along Cape Wrath. Major rivers include the Slayne and part of the Wendwater. The windswept plains and grasslands of the Dornish Marches, located in the south-west in a long salient along the Red Mountains, serve as an effective buffer zone between the stormlands and their old enemies of the Reach and Dorne.",
+        "id_casa": "9",
+        "casa": "House Baratheon",
+        "slug": "region4"
+    },
+    {
+        "id": "5",
+        "nombre": "The Crownlands",
+        "descripcion": "The crownlands are based around Blackwater Bay, with the capital of King's Landing built where the Blackwater Rush meets the bay. King's Landing, the largest city in Westeros, contains the Great Sept of Baelor and the Red Keep, the home of House Baratheon of King's Landing. Settlements north of King's Landing include Antlers (seat of House Buckwell), Rosby (seat of House Rosby), Stokeworth (seat of House Stokeworth), and Duskendale (seat of House Rykker), the region's secondary port. Near Duskendale are the ruins of the Hollard castle. Farther north are Rook's Rest (seat of House Staunton) and Crackclaw Point, a rugged peninsula of insular folk whose castles include the Dyre Den (seat of House Brune), Brownhollow (another seat of House Brune), and the Whispers (formerly of House Crabb). North of Crackclaw Point are the Bay of Crabs and the Vale of Arryn.",
+        "id_casa": "2",
+        "casa": "House Stark",
+        "slug": "region5"
+    },
+    {
+        "id": "6",
+        "nombre": "Beyond the Wall",
+        "descripcion": "The lands beyond the Wall are primarily wild, untamed and uncharted. The climate is harsh and bitter, especially in the far north in the Lands of Always Winter. The region immediately north of the Wall includes the haunted forest, a vast taiga-forest which covers most of the area, extending from the Wall to the furthest lands of Thenn. While no true roads exist, numerous game trails, paths, and old streambeds, called \"ranger roads\", are used by the Night's Watch and free folk alike. The haunted forest extends from the eastern coast to a large mountain chain in the west, the Frostfangs. These inhospitable mountains extend an unknown distance to the north. Notable features include the Giant's Stair and the Skirling Pass. The Milkwater, the great river beyond the Wall, has its origins in the Frostfangs. Thenn is a hidden valley in the mountains.",
+        "id_casa": "5",
+        "casa": "Free Folk",
+        "slug": "region6"
+    },
+    {
+        "id": "7",
+        "nombre": "The Reach",
+        "descripcion": "The Reach is the most fertile part of Westeros and has numerous and well-populated villages and towns. The Sunset Sea is found to the west, while the hills of the westerlands are to the northwest and the Blackwater Rush of the riverlands is to the north. The Reach borders the crownlands to the northeast, while to the east and southeast are the stormlands and their Dornish Marches. South of the Reach are the Red Mountains of Dorne and the Summer Sea. The Roseroad links Oldtown with King's Landing by way of Highgarden, while the Ocean Road links Highgarden with Lannisport. The Reach is watered by the immense river Mander and its tributaries, including the Blueburn and the Cockleswhent. The Reach proper is centered around the Mander. Oldtown is located at the mouth of the Honeywine. The region also includes several islands, including the Shield Islands near the mouth of the Mander and the Arbor south of the Whispering Sound and the Redwyne Straits.",
+        "id_casa": "8",
+        "casa": "House Tyrell",
+        "slug": "region7"
+    }
+]
